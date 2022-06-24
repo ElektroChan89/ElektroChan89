@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElektroChan89
-- 👀 I’m interested in reinforcement learning, sequential decision making, machine learning, optimization.
+- 👀 I’m interested in reinforcement learning, data science, machine learning, optimization.
 - 📫 You can reach me by email: arthur.mueller@iosb-ina.fraunhofer.de
 
 <!---
